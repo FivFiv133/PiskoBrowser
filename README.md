@@ -1,3 +1,3 @@
 # PiskoBrowser
 
-Version: 0.9.6
+Version: 0.9.7
